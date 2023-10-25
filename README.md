@@ -9,11 +9,4 @@ STORY PUBLIC LINK 1 - https://public.tableau.com/views/Story1_16963241908420/Sto
 
 STORY PUBLIC LINK 2 - https://public.tableau.com/views/Story2_16963242807280/Story2?:language=en-US&:display_count=n&:origin=viz_share_link
 
-VIDEO DEMONSTRATION LINK - https://drive.google.com/file/d/1XtI6vfcfDV7myAzYqvsT9z90ubnN6Vwg/view?usp=drivesdk
-
-
-
-
-
-
-
+VIDEO DEMONSTRATION LINK - https://drive.google.com/file/d/1MG6od-UJXHRx11K9kvaqOwePqTcECA8A/view?usp=drivesdk
